@@ -102,7 +102,7 @@ cursor: pointer;
     position: relative;
 }
 .sale-image img{
-width: 100%;
+    width: 100%;
 }
 .sale-image__offer{
     width:25%;
